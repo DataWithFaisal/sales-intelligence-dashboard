@@ -5,7 +5,7 @@
 > 2026**, designed to monitor revenue, profitability, orders, targets,
 > sales performance, products, customers, regions, and order fulfilment.
 
-## 📊 Dashboard Preview<img width="835" height="986" alt="Screenshot 2026-11-22 065941" src="https://github.com/user-attachments/assets/a80e2871-0478-4ae5-adb4-795e25a7d8ef" />
+
 
 ------------------------------------------------------------------------
 
@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Conditional%20Formatting-00A6A6?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Conditional Formatting" />
   <img src="https://img.shields.io/badge/Excel%20Formulas-5B9BD5?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Formulas" />
 </p>
+ ## 📊 Dashboard Preview
+<img width="835" height="986" alt="Screenshot 2026-11-22 065941" src="https://github.com/user-attachments/assets/9de1fd99-cd2b-483f-a444-0c7b7b6558d2" />
 
 ## 🛠️ Tools & Excel Features Used
 
