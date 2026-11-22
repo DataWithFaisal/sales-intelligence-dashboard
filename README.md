@@ -5,10 +5,7 @@
 > 2026**, designed to monitor revenue, profitability, orders, targets,
 > sales performance, products, customers, regions, and order fulfilment.
 
-## 📊 Dashboard Preview
-
-![Sales Analytics Dashboard](<img width="835" height="986" alt="Screenshot 2026-11-22 065941" src="https://github.com/user-attachments/assets/a03bd043-1fe4-46dc-a979-1cbe92a2e3bb" />
-)
+## 📊 Dashboard Preview<img width="835" height="986" alt="Screenshot 2026-11-22 065941" src="https://github.com/user-attachments/assets/a80e2871-0478-4ae5-adb4-795e25a7d8ef" />
 
 ------------------------------------------------------------------------
 
