@@ -5,7 +5,8 @@
 > 2026**, designed to monitor revenue, profitability, orders, targets,
 > sales performance, products, customers, regions, and order fulfilment.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](<img width="835" height="986" alt="Screenshot 2026-11-22 065941" src="https://github.com/user-attachments/assets/585f7aaf-f567-4c94-9084-acbb111c8252" />
+)
 
 ------------------------------------------------------------------------
 
